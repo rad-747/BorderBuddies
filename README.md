@@ -97,26 +97,33 @@ The app flags any restricted items based on destination (e.g., Perishable in USA
 ###  Weight Limit Exceeded Warning
 If the shipment weight exceeds 30 kg, the app immediately prompts the user to split the shipment into multiple containers.
 <img width="775" alt="image" src="https://github.com/user-attachments/assets/66977bbd-ec18-4eca-98c6-47f71950d55d" />
-### 📦 Split Shipment Form
+
+###  Split Shipment Form
 When splitting is required, users can enter the number of containers and assign specific weights, declared values, and item types to each.
 
 <img width="776" alt="image" src="https://github.com/user-attachments/assets/ca0bd978-070e-4e22-8f54-91ddd9a2ba41" />
 
+###  Shipment Report (PDF Output)
+Automatically generated PDF with detailed shipment metadata including sender, recipient, weight, declared value, and shipment status.
 
 <img width="756" alt="image" src="https://github.com/user-attachments/assets/4a9d7f19-7408-434d-a796-02f224791cde" />
 
 
-asking chatbot
+###  Compliance Chatbot Powered by Gemini AI
+Users can ask shipping regulation questions, and the chatbot responds with accurate, real-time compliance details and actionable steps.
 <img width="789" alt="image" src="https://github.com/user-attachments/assets/0e03df3b-7d24-4cea-871b-3952fb7cc3a0" />
 
 
+###  AI-Generated Regulation Updates
+Gemini AI provides the latest regulations for a shipment based on country pair and item type, along with verified links and disclaimers.
 
 <img width="1278" alt="image" src="https://github.com/user-attachments/assets/277d4d81-9e86-4d62-ab12-05cb0d8b190d" />
 
+
+
 <img width="1372" alt="image" src="https://github.com/user-attachments/assets/8cc1d3a7-5615-4a49-a48c-6b554c6aca2d" />
 
-### Sample Report:
-<img width="693" alt="image" src="https://github.com/user-attachments/assets/e29721d3-beed-43c0-8915-ffffbce47257" />
+
 
 ---
 
