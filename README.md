@@ -4,6 +4,7 @@
 > A rapid compliance checker for cross-border shipments built using Streamlit, Gemini AI, and Python.
 
 BorderBuddies simplifies international shipping for small exporters by providing an all-in-one dashboard to validate shipments, check regulations, and generate reports — reducing manual errors and delays.
+> **Live App:** [https://borderbuddies.streamlit.app](https://borderbuddies.streamlit.app)
 
 ---
 
