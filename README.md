@@ -104,8 +104,13 @@ asking chatbot
 <img width="789" alt="image" src="https://github.com/user-attachments/assets/0e03df3b-7d24-4cea-871b-3952fb7cc3a0" />
 
 
+
+<img width="1278" alt="image" src="https://github.com/user-attachments/assets/277d4d81-9e86-4d62-ab12-05cb0d8b190d" />
+
+<img width="1372" alt="image" src="https://github.com/user-attachments/assets/8cc1d3a7-5615-4a49-a48c-6b554c6aca2d" />
+
 ### Sample Report:
-[📄 Download Sample PDF](./Border%20Buddies.pdf)
+<img width="693" alt="image" src="https://github.com/user-attachments/assets/e29721d3-beed-43c0-8915-ffffbce47257" />
 
 ---
 
