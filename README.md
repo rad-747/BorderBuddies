@@ -89,11 +89,17 @@ BorderBuddies is a real-time export compliance system that:
 ### UI Screenshot:
 <img width="1304" alt="image" src="https://github.com/user-attachments/assets/4983ffbd-f763-4b23-a3d0-462b6f523040" />
 
+###  Validation Errors for Restricted Items and Conflicts
+The app flags any restricted items based on destination (e.g., Perishable in USA) and incompatible item combinations (e.g., Knives + Electronics).
 
 <img width="767" alt="image" src="https://github.com/user-attachments/assets/6ae125dc-ea66-4ab0-bafd-d2ddb09583a3" />
 
-Split Shipment UI
+###  Weight Limit Exceeded Warning
+If the shipment weight exceeds 30 kg, the app immediately prompts the user to split the shipment into multiple containers.
 <img width="775" alt="image" src="https://github.com/user-attachments/assets/66977bbd-ec18-4eca-98c6-47f71950d55d" />
+### 📦 Split Shipment Form
+When splitting is required, users can enter the number of containers and assign specific weights, declared values, and item types to each.
+
 <img width="776" alt="image" src="https://github.com/user-attachments/assets/ca0bd978-070e-4e22-8f54-91ddd9a2ba41" />
 
 
