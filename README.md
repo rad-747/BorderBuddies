@@ -86,7 +86,7 @@ BorderBuddies is a real-time export compliance system that:
 
 ##  Demo Preview
 
-### UI Screenshot:
+### UI Screenshot
 <img width="1304" alt="image" src="https://github.com/user-attachments/assets/4983ffbd-f763-4b23-a3d0-462b6f523040" />
 
 ###  Validation Errors for Restricted Items and Conflicts
